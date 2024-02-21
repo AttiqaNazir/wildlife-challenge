@@ -1,0 +1,29 @@
+.animal {
+    @apply bg-neutral-200 m-4 p-4 flex flex-col justify-between max-h-full text-center;
+}
+
+.button {
+    @apply px-4 py-2 bg-blue-500 text-white rounded-md hover:bg-blue-600 focus:outline-none focus:bg-blue-600 size-full border-0 ;
+}
+
+.added{
+    @apply bg-slate-500;
+}
+.added:hover{
+    @apply bg-slate-500;
+}
+
+label{
+    @apply block font-bold mr-2;
+
+}
+
+.attributes{
+    @apply flex flex-col items-start m-4 grow;
+}
+
+.attribute{
+    @apply flex pb-2;
+}
+
+

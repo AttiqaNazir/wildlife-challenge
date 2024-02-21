@@ -1,0 +1,8 @@
+.favouritesList{
+    @apply grid grid-cols-4;
+}
+
+.favourites {
+   @apply flex flex-col items-center p-10;
+
+}

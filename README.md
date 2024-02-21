@@ -68,3 +68,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+### Implementation and Assumptions
+
+As the API was returning the results for only one specific animal hence:
+=> I decided to add a search bar where user can search for the wild animals.
+=> User can add an animal to the favourites.
+=> User can remove an animal from their favourites.
+=> User can like or dislike the attributes of their favourite animals.
+=> All favourite animals with their attributes (liked or disliked) are stored in local storage.
+
+### To be implemented in the future.
+=> User should be able to rate their favourite animal.
+=> Unit tests.
+
+### Screenshots (Please navigate to these images to see the results)
+![Alt text](Home.png)
+
+![Alt text](search-results.png)
+
+![Alt text](add-to-favourite.png)
+
+![Alt text](favourites.png)
+
+![Alt text](like-dislike.png)
+
+## Time Spent
+
+Estimated combined time spent on this challenge is 3 - 4 hours.
+
+
+
+
